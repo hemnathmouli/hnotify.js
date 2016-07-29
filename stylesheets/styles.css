@@ -54,7 +54,9 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
 
-.btn { margin-left: 10px; }
+.btn { margin-right: 10px; }
+
+.alert-warning span { color: #fff; }
 
 body {
   background-color: #fff;
