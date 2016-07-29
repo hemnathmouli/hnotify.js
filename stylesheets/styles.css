@@ -56,7 +56,7 @@
 
 .btn { margin-right: 10px; }
 
-.alert-warning span { color: #fff; }
+.alert-warning span, .alert-success span { color: #fff; }
 
 body {
   background-color: #fff;
