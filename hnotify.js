@@ -2,7 +2,7 @@
 /* Plugin Author: Hemnath Mouli                              */
 /* Plugin Name  : hnotify.js                                 */
 /* Version      : 1.0                                        */
-/* Requirements : Bootstrap ( JS )                           */
+/* Requirements : Bootstrap                                  */
 /*************************************************************/
 
 (function ($) {
